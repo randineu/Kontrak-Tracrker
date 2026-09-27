@@ -1,0 +1,8 @@
+{
+  "name": "Sistem Tracking Kontrak Multi-Platform",
+  "description": "Sistem tracking kontrak cerdas bertenaga AI dengan sinkronisasi Google Sheets, Google Drive, dan Google Calendar untuk ekstraksi BoQ, kalkulasi pajak, pengawasan masa kerja, dan arsip materai.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
